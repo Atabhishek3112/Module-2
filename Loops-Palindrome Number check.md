@@ -36,4 +36,4 @@ else:
 Thus,the Python program that checks whether a given number is a palindrome using loops is created successfully.
 
 
-## Result
+
